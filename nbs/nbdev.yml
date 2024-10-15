@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "jp-nbdev-test"
+  site-url: "https://j-parkes-nel.github.io/jp-nbdev-test"
+  description: "testing nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/j-parkes-nel/jp-nbdev-test"
